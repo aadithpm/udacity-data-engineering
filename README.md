@@ -5,3 +5,4 @@
 3. **Data Warehousing with AWS Stack (Redshift):** [GitHub](https://github.com/aadithpm/udacity-dend-3-data-warehousing)
 4. **Data Lake with Apache Spark:** [Github](https://github.com/aadithpm/udacity-dend-4-data-lake)
 5. **Data Orchestration with Apache Airflow:** [Github](https://github.com/aadithpm/udacity-dend-5-data-orchestration)
+6. **Capstone:** [Github](https://github.com/aadithpm/udacity-dend-capstone)
